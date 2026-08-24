@@ -1,0 +1,9 @@
+.venv/
+.venc/
+cache/
+__pycache__/
+*.pyc
+*.pbf
+*.json
+requirements.txt
+/*.html
