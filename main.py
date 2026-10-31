@@ -29,7 +29,7 @@ import pbf_reader
 
 # ── Configuración ──────────────────────────────────────────────────────────────
 
-PBF_FILE    = "argentina-260823.osm.pbf"
+PBF_FILE    = "argentina-261029.osm.pbf"
 COLORMAP    = "turbo"       # plasma | viridis | turbo | RdYlGn
 OUTPUT_DIR  = "output"
 TILE_STYLE  = "CartoDB dark_matter"
